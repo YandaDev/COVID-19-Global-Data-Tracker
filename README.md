@@ -46,7 +46,7 @@ This project analyzes COVID-19 trends globally, focusing on cases, deaths, and v
 
 ### Key Insights
 
-- The United States had the highest number of total cases and deaths.
-- South Africa’s death rate was higher during early waves compared to China.
-- China shows slower case growth, possibly due to strict containment.
-- Vaccination progress varied, with the U.S. leading early in rollout.
+- **The United States** had the highest number of total cases and deaths.
+- **South Africa**’s death rate was higher during early waves compared to **China**.
+- **China** shows slower case growth, possibly due to strict containment.
+- Vaccination progress varied, with the **United States** leading early in rollout.
